@@ -18,6 +18,8 @@
 			<dict>
 				<key>bundle-identifier</key>
 				<string>com.db.empcard.empCard</string>
+				<key>application-identifier</key>
+				<string>M5XGF2Z6JJ.com.db.empcard.empCard</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
