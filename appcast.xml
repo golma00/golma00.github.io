@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <!--
+    -->
+    <channel>
+        <title>DB PASS</title>
+        <language>ko</language>
+        <!-- Android -->
+        <item>
+            <title>v1.0.0</title>
+            <description>최초 배포</description>
+            <pubDate>Mon, 19 Dec 2022 12:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/golma00/golma00.github.io/raw/main/build/aos/app-prod-release.apk" sparkle:version="1.0.0" type="application/octet-stream" sparkle:os="android" />
+        </item>
+        <!-- IOS -->
+        <item>
+            <title>v1.0.0</title>
+            <description>최초 배포</description>
+            <pubDate>Mon, 19 Dec 2022 12:00:00 +0000</pubDate>
+            <enclosure url="itms-services://?action=download-manifest&amp;url=https://github.com/golma00/golma00.github.io/raw/main/build/ios/manifest.plist" type="application/octet-stream" sparkle:version="1.0.0" sparkle:os="ios" />
+        </item>
+
+    </channel>
+</rss>
