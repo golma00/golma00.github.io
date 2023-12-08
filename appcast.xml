@@ -7,6 +7,18 @@
         <language>ko</language>
         <!-- Android -->
         <item>
+            <title>v1.0.3</title>
+            <description>Omni-One Plugin 기능 추가</description>
+            <pubDate>Fri, 08 Dec 2023 13:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/golma00/golma00.github.io/raw/main/build/aos/app-prod-release.apk" sparkle:version="1.0.3" type="application/octet-stream" sparkle:os="android" />
+        </item>
+        <item>
+            <title>v1.0.2</title>
+            <description>배포 테스트2</description>
+            <pubDate>Mon, 04 Dec 2023 13:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/golma00/golma00.github.io/raw/main/build/aos/app-prod-release.apk" sparkle:version="1.0.2" type="application/octet-stream" sparkle:os="android" />
+        </item>
+        <item>
             <title>v1.0.1</title>
             <description>배포 테스트1</description>
             <pubDate>Sun, 03 Dec 2023 15:00:00 +0000</pubDate>
@@ -19,6 +31,12 @@
             <enclosure url="https://github.com/golma00/golma00.github.io/raw/main/build/aos/app-prod-release.apk" sparkle:version="1.0.0" type="application/octet-stream" sparkle:os="android" />
         </item>
         <!-- IOS -->
+        <item>
+            <title>v1.0.3</title>
+            <description>Omni-One Plugin 기능 추가</description>
+            <pubDate>Fri, 08 Dec 2023 13:00:00 +0000</pubDate>
+            <enclosure url="itms-services://?action=download-manifest&amp;url=https://github.com/golma00/golma00.github.io/raw/main/build/ios/manifest.plist" type="application/octet-stream" sparkle:version="1.0.3" sparkle:os="ios" />
+        </item>
         <item>
             <title>v1.0.1</title>
             <description>배포 테스트1</description>
