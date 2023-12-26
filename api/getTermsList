@@ -1,0 +1,15 @@
+{
+    "resultCd" : "00",
+    "resultMsg": "",
+    "generalTerms": {
+        "termsId": "gt003",
+        "termsTitle": "서비스 이용 약관",
+        "regDt": "2023.12.18"
+    },
+    "privacyPolicy": {
+        "termsId": "pp001",
+        "termsTitle": "개인정보 수집 및 이용 동의",
+        "regDt": "2023.12.18"
+    }
+    
+}

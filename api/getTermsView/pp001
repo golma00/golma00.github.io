@@ -1,0 +1,22 @@
+{
+    "resultCd" : "00",
+    "resultMsg": "",
+    "termsId": "pp001",
+    "termsTitle": "개인정보 수집 및 이용 동의",
+    "regDt": "2023.12.18",
+    "termsCntn": "<p style=\"line-height: 1.8;\"><span style=\"font-size: 10pt; font-family: Arial;\">V.0.0.1 DB PASS에서 안내드립니다.</span></p><p><br></p><p style=\"line-height: 1.8;\"><span style=\"font-size: 10pt; font-family: Arial;\">DB PASS는 회원 여러분의 개인정보를 무엇보다 소중하게 취급하고 있으며, 안전하게 관리하고 있습니다.</span></p><p style=\"line-height: 1.8;\"><span style=\"font-family: Arial; font-size: 10pt;\">개인정보처리방침 변경사항을 안내드리오니 이용에 참고하시기 바랍니다.</span></p><p><br></p><p style=\"line-height: 1.8;\"><span style=\"font-size: 10pt; font-family: Arial;\"><b>1. 개정사항</b></span></p><p style=\"line-height: 1.8;\"><span style=\"font-size: 10pt; font-family: Arial;\">개인정보처리방침 현행화</span></p><p><span style=\"font-size: 9pt; font-family: Arial;\"><br></span></p><p style=\"line-height: 1.8;\"><span style=\"font-size: 10pt; font-family: Arial;\"><b>2. 개정내용</b></span></p><p style=\"line-height: 1.8;\"><span style=\"font-family: Arial; font-size: 10pt;\">- 개인정보처리방침 항목을 정보주체가 쉽게 확인할 수 있도록 개정</span></p><p style=\"line-height: 1.8;\"><span style=\"font-family: Arial; font-size: 10pt;\">&nbsp;※ 서비스 이용절차별 수집 개인정보 명시, 이전 버전의 개인정보처리방침 확인 가능한 링크 추가 등</span></p><p style=\"line-height: 1.8;\"><span style=\"font-family: Arial; font-size: 10pt;\">- 개인정보보호법 개정(제39조의6, 개인정보 유효기간제 폐지)에 따라 7. 장기 미이용 회원 개인정보 분리 보관 조항 삭제</span></p><p><span style=\"font-family: Arial;\"><br></span></p><p style=\"line-height: 1.8;\"><span style=\"font-family: Arial; font-size: 10pt;\"><b>3.&nbsp;</b></span><b style=\"font-family: Arial; font-size: 9pt;\"><span style=\"font-size: 10pt;\">시행일자</span></b></p><p style=\"line-height: 1.8;\"><span style=\"font-family: Arial; font-size: 10pt;\">2023년 11월 7일</span></p><p><span style=\"font-family: Arial; font-size: 13.3333px;\">&nbsp;※ '변경 전 개인정보 처리방침 보기' 링크 변경으로 2023년 11월 8일 최신 업데이트되었습니다.</span><span style=\"font-family: Arial;\">&nbsp;</span></p><p><br></p><p style=\"line-height: 1.8;\"><span style=\"font-family: Arial; font-size: 10pt;\">감사합니다.</span></p>",
+    "termsHistList": [
+        {
+            "termsId": "gt001",
+            "regDt": "2023.10.18"
+        },
+        {
+            "termsId": "gt002",
+            "regDt": "2023.11.18"
+        },
+        {
+            "termsId": "gt003",
+            "regDt": "2023.12.18"
+        }
+    ]
+}
